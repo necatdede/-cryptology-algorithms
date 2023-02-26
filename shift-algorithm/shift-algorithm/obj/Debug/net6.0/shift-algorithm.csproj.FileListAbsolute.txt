@@ -1,0 +1,15 @@
+D:\csharp\shift-algorithm\shift-algorithm\bin\Debug\net6.0\shift-algorithm.exe
+D:\csharp\shift-algorithm\shift-algorithm\bin\Debug\net6.0\shift-algorithm.deps.json
+D:\csharp\shift-algorithm\shift-algorithm\bin\Debug\net6.0\shift-algorithm.runtimeconfig.json
+D:\csharp\shift-algorithm\shift-algorithm\bin\Debug\net6.0\shift-algorithm.dll
+D:\csharp\shift-algorithm\shift-algorithm\bin\Debug\net6.0\shift-algorithm.pdb
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.csproj.AssemblyReference.cache
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.AssemblyInfoInputs.cache
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.AssemblyInfo.cs
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.csproj.CoreCompileInputs.cache
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.dll
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\refint\shift-algorithm.dll
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.pdb
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\shift-algorithm.genruntimeconfig.cache
+D:\csharp\shift-algorithm\shift-algorithm\obj\Debug\net6.0\ref\shift-algorithm.dll

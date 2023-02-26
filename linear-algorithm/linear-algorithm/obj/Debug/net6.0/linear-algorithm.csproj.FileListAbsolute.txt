@@ -1,0 +1,15 @@
+D:\csharp\linear-algorithm\linear-algorithm\bin\Debug\net6.0\linear-algorithm.exe
+D:\csharp\linear-algorithm\linear-algorithm\bin\Debug\net6.0\linear-algorithm.deps.json
+D:\csharp\linear-algorithm\linear-algorithm\bin\Debug\net6.0\linear-algorithm.runtimeconfig.json
+D:\csharp\linear-algorithm\linear-algorithm\bin\Debug\net6.0\linear-algorithm.dll
+D:\csharp\linear-algorithm\linear-algorithm\bin\Debug\net6.0\linear-algorithm.pdb
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.csproj.AssemblyReference.cache
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.AssemblyInfoInputs.cache
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.AssemblyInfo.cs
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.csproj.CoreCompileInputs.cache
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.dll
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\refint\linear-algorithm.dll
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.pdb
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\linear-algorithm.genruntimeconfig.cache
+D:\csharp\linear-algorithm\linear-algorithm\obj\Debug\net6.0\ref\linear-algorithm.dll

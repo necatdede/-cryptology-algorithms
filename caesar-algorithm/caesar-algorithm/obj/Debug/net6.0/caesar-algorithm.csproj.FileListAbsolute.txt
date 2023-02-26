@@ -1,0 +1,15 @@
+D:\csharp\caesar-algorithm\caesar-algorithm\bin\Debug\net6.0\caesar-algorithm.exe
+D:\csharp\caesar-algorithm\caesar-algorithm\bin\Debug\net6.0\caesar-algorithm.deps.json
+D:\csharp\caesar-algorithm\caesar-algorithm\bin\Debug\net6.0\caesar-algorithm.runtimeconfig.json
+D:\csharp\caesar-algorithm\caesar-algorithm\bin\Debug\net6.0\caesar-algorithm.dll
+D:\csharp\caesar-algorithm\caesar-algorithm\bin\Debug\net6.0\caesar-algorithm.pdb
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.csproj.AssemblyReference.cache
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.AssemblyInfoInputs.cache
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.AssemblyInfo.cs
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.csproj.CoreCompileInputs.cache
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.dll
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\refint\caesar-algorithm.dll
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.pdb
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\caesar-algorithm.genruntimeconfig.cache
+D:\csharp\caesar-algorithm\caesar-algorithm\obj\Debug\net6.0\ref\caesar-algorithm.dll
